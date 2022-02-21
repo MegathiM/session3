@@ -1,0 +1,62 @@
+.container 
+{
+    width: 500px;
+}
+
+h1{ font: 300;
+    font-size: xx-large;
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color: fuchsia;
+    border: 2px solid darkcyan;
+    padding: 30px 40px;
+    margin: 50px;
+
+}
+h2{ font: 300;
+    font-size: xx-large;
+    margin-bottom: 100px;
+    background-color: deeppink;
+    border: 2px solid darkgoldenrod;
+    display: inline-block;
+    padding: 30px 40px;
+    margin: 100px;;
+}
+p{
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
